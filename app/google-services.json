@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910018052492",
+    "project_id": "snotifications-eaf08",
+    "storage_bucket": "snotifications-eaf08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910018052492:android:5f98861702f1c34ea256a9",
+        "android_client_info": {
+          "package_name": "com.dwarfplanet.snotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910018052492-1obm3t7jcqqgii8amehqcgvb8hshlajn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrf0C7PR8BML49tTfuQfhoJOQa0tCjbRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910018052492-1obm3t7jcqqgii8amehqcgvb8hshlajn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
